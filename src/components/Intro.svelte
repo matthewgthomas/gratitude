@@ -1,15 +1,27 @@
 <script>
     import { fade } from 'svelte/transition';
+
+    let visible = true;
+
+    function handleClick() {
+      visible = false;
+    }
 </script>
-  
-<div 
-    class="overlay"
-    transition:fade={{ duration: 1200 }}
->
-    <div class="content">
-        <h1>Coming soon</h1>
+
+{#if visible}
+    <div 
+        class="overlay"
+        tabindex="0"
+        role="button"
+        onclick={handleClick}
+        onkeyup={handleClick}
+        transition:fade={{ duration: 1200 }}
+    >
+        <div class="content">
+            <h1>Coming soon</h1>
+        </div>
     </div>
-</div>
+{/if}
   
 <style>
     .overlay {
