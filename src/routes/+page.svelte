@@ -1,2 +1,5 @@
-<h1>Intro</h1>
-<a href="/act1">Start</a>
+<script>
+    import Intro from "$components/Intro.svelte";
+</script>
+
+<Intro />
