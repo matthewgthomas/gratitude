@@ -1,7 +1,20 @@
 <script>
 	import '../app.css';
-	
+	import { navigating } from '$app/stores';
+	import { onMount } from 'svelte';
+	import { initializeNavigationTracking, handleNavigation } from '$lib/stores/navigationStore';
+
 	let { children } = $props();
+
+	onMount(() => {
+        initializeNavigationTracking();
+    });
+
+	$effect(() => {
+		if ($navigating) {
+        	handleNavigation($navigating.to);
+    	}
+	});
 </script>
 
 <svelte:head>
