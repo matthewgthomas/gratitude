@@ -1,0 +1,1 @@
+{"type":"data","nodes":[{"type":"data","data":[null],"uses":{}},{"type":"data","data":[{"section":1,"componentPath":2,"routes":3},"act1","../content/act1.md",[4],{"FromSectionID":1,"FromSectionTitle":5,"ToSectionID":6,"ToSectionTitle":7,"Text":8},"Act 1","act1b","Act 1b (What I found in the dark)","What I found in the dark"],"uses":{"params":["slug"]}}]}
