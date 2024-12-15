@@ -1,5 +1,5 @@
 <script>
-    import { onMount, setContext } from 'svelte';
+    import { onMount } from 'svelte';
     import { page } from '$app/stores';
     import { goto } from '$app/navigation';
     import { browser } from "$app/environment";
@@ -67,9 +67,6 @@
     if (currentSectionURL) {
         currentSection = currentSectionURL;
     }
-
-    // let routeTaken = $state(["act1"]);
-    // setContext('route', routeTaken);
 
     let y = $state(0);  // How far down the page we are
 
