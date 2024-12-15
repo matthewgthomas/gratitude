@@ -22,3 +22,13 @@ vite.config.ts.timestamp-*
 
 # VS Code
 /.vscode
+
+# RStudio
+.Rproj.user
+*.Rproj
+.RData
+.Rhistory
+
+# NLP data
+nlp/data
+*.udpipe
