@@ -5,5 +5,5 @@ github:
 	cp -r build docs
 	touch docs/.nojekyll
 	git add -A
-	git commit -m "update github pages"
+	git commit -m "Update github pages"
 	git push
