@@ -1,4 +1,5 @@
 <script>
+    import { goto } from '$app/navigation';
     import { navigationHistory } from '$lib/stores/navigationStore';
     import sections from "$data/sections.csv";
 
@@ -15,7 +16,7 @@
     <p>You didn’t make it to these sections. Use the links to read them, if you desire:</p>
     <ul>
         {#each missedSections as section}
-            <li><a href="/{section.Slug}">{section.Section}</a></li>
+            <li><a href={`?section=${section.Slug}`} target="_self">{section.Section}</a></li>
         {/each}
     </ul>
 {:else}

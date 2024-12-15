@@ -8,8 +8,11 @@
         const objMap = new Map(
             objectArray.map(obj => [obj.Slug, obj])
         );
+
+        // Remove duplicates (in case the user navigated away then back again)
+        const stringSet = [...new Set(stringArray)];
         
-        return stringArray
+        return stringSet
             .map(slug => objMap.get(slug))
             .filter(Boolean);
     }

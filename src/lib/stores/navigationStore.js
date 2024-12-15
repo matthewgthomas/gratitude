@@ -39,16 +39,16 @@ export function initializeNavigationTracking() {
 }
 
 // Handle navigation with timestamps and metadata
-export async function handleNavigation({ url }) {
-    const path = url.pathname.replace(/^\//, '');
+export async function handleNavigation(section) {
+    // const path = section.replace(/^\//, '');
 
     // Only track non-empty paths
-    if (!path) return;
+    // if (!path) return;
 
     navigationHistory.update(history => {
         const maxHistorySize = 50;
 
-        const newHistory = [...history, path];
+        const newHistory = [...history, section];
         
         // Remove oldest entries if exceeding max size
         if (newHistory.length > maxHistorySize) {
