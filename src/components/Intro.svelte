@@ -1,27 +1,24 @@
 <script>
     import { fade } from 'svelte/transition';
-
-    let visible = true;
+    import { goto } from '$app/navigation';
 
     function handleClick() {
-      visible = false;
+        goto("/act1", { replaceState: true });
     }
 </script>
 
-{#if visible}
-    <div 
-        class="overlay"
-        tabindex="0"
-        role="button"
-        onclick={handleClick}
-        onkeyup={handleClick}
-        transition:fade={{ duration: 1200 }}
-    >
-        <div class="content">
-            <h1>Coming soon</h1>
-        </div>
+<div 
+    class="overlay"
+    tabindex="0"
+    role="link"
+    onclick={handleClick}
+    onkeyup={handleClick}
+    transition:fade={{ duration: 1200 }}
+>
+    <div class="content">
+        <h1>Coming soon</h1>
     </div>
-{/if}
+</div>
   
 <style>
     .overlay {
@@ -40,6 +37,7 @@
       padding: 2rem;
       box-sizing: border-box;
       z-index: 9999;
+      cursor: pointer;
     }
   
     .content {

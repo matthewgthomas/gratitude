@@ -1,3 +1,120 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities'
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --orange-primary: #E4670B;
+    --orange-light: #EF732B;
+    --orange-dark: #CC5803;
+    --orange-rust: #BF3B0B;
+    
+    --purple: #792FC4;
+    --purple-bright: #A02BF0;
+
+    --pink: #FF5EAA;
+
+    --lavender: #828FD9;
+    
+    --blue: #4064D6;
+    --blue-dark: #0B438C;
+
+    --cyan: #07F2F2;
+    --cyan-dark: #07C4D9;
+
+    font-family: "Merriweather", Georgia, Garamond, serif;
+    --font-sans: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+html, body {
+    /*
+    The Atlantic uses a white background
+    BBC: #f6f6f6
+    Guardian = white
+    Economist = white
+
+    */
+    /*background-color: #F5EEDC;*/
+    /*background-color: #EEECE7;*/
+    /*background-color: #f9f9f9;*/
+    /*background-color: #f7fafc;*/
+
+    color: #1a202c;
+
+    /*font-family: "Tiempos Text Web", serif !important;*/
+}
+
+p {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+h1 {
+	/*font-size: var(--48px, 48px);*/
+    font-size: 2.5rem;
+    line-height: 1.1;
+    margin: 0 0 2rem 0;
+}
+
+h2 {
+    font-size: 1.75rem;
+    line-height: 1.3;
+    margin: 0 0 1.5rem 0;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin: 0 0 1.5rem 0;
+}
+
+ /* unvisited link */
+ a:link {
+    color: var(--orange-primary);
+  }
+  
+/* visited link */
+a:visited {
+    color: var(--orange-primary);
+}
+  
+/* mouse over link */
+a:hover {
+    color: var(--purple);
+}
+  
+/* selected link */
+a:active {
+    color: var(--purple);
+}
+
+/* Lists */
+ul {
+    list-style: disc;
+    padding: 0;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+}
+
+ol {
+    list-style: i;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+}
+
+li {
+    padding-left: 16px;
+}
+
+img {
+    /*margin-bottom: 0.5rem;*/
+}
+
+blockquote {
+    background-color: #ededed;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+code {
+    font-size: 1rem;
+}
