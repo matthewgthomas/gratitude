@@ -18,8 +18,12 @@
       goto(`/${toSection}`, { replaceState: false });
     }
 </script>
-  
-<div transition:fade>
+
+{#key data.section}
+<div 
+  in:fade={{ duration: 650, delay: 500 }}
+  out:fade={{ duration: 500 }}
+  >
     <svelte:component this={component} />
     
     {#each data.routes as route}
@@ -29,3 +33,4 @@
       <br/>
     {/each}
 </div>
+{/key}
