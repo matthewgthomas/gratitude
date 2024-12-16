@@ -19,6 +19,7 @@
             <li><a href={`?section=${section.Slug}`} target="_self">{section.Section}</a></li>
         {/each}
     </ul>
+    <p>If you’d like to explore them, use the button at the bottom of this page to start again.</p>
 {:else}
     <p>You made it to every section!</p>
 {/if}
