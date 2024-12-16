@@ -69,7 +69,7 @@
         background-color: var(--orange-primary);
         /*background: linear-gradient(45deg, #cc5803, #ff7900, #ff9e00, #ff5eaa, #381d59);*/
         /*background: linear-gradient(0.25turn, #cc5803, 40%, #ff5eaa);*/
-        background: linear-gradient(90deg in oklab, var(--orange-primary), var(--orange-rust), var(--pink));
+        background: linear-gradient(90deg in oklab, var(--orange-light), var(--pink), var(--cyan));
         background-size: 400%;
         /*top: -2px;
         left:-2px;*/
@@ -78,15 +78,6 @@
         animation: gradient 8s ease infinite;
         border-radius: inherit; /* Optional: to match the circle's border-radius */
         /*z-index: -1; /* Optional: place it behind the circle */
-    }
-
-    @keyframes glow {
-        from {
-            box-shadow: 0 0 5px -5px #ff9f00;
-        }
-        to {
-            box-shadow: 0 0 5px 5px #ff9f00;
-        }
     }
 
     @keyframes gradient {
@@ -99,12 +90,6 @@
         100% {
             background-position: 0% 50%;
         }
-    }
-
-    @keyframes glowing {
-        0% { background-position: 0 0; }
-        50% { background-position: 400% 0; }
-        100% { background-position: 0 0; }
     }
 
     button.section-button .circle .icon {
