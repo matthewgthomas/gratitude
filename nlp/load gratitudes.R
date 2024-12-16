@@ -23,9 +23,7 @@ people <-
 people_cats <- read_sheet("https://docs.google.com/spreadsheets/d/1DPIodl_Nz0ulXktLfR91kL0ni0jvqsQhwklTJcB4_I4/edit?usp=sharing", sheet = "People categories")
 
 # ---- Themed gratitudes ----
-# UNCOMMENT THIS if wanting to update gratitude themes
-# Fetch latest data based on classifications from
-# https://colab.research.google.com/drive/1NUR8TLpp_gLPm6Joq6tpohGameETYz7a#scrollTo=AtIpjIPDO20Y
+# Fetch latest data based on themes using the zero-shot classifier
 drive_download("gratitudes_labeled.csv", path = "nlp/data/gratitudes_labeled.csv", overwrite = TRUE)
 
 grats_cats <- read_csv("nlp/data/gratitudes_labeled.csv")
