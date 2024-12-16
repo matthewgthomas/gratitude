@@ -37,7 +37,8 @@
 
     let data = $state(dataWeekly);
   
-    const formatLabelX = timeFormat('%b. %-d');
+    //const formatLabelX = timeFormat('%b. %-d');
+    const formatLabelX = timeFormat('%b');
     const formatLabelY = d => format(`.0%`)(d);
 
     let activeButton = $state("Weekly");
@@ -75,7 +76,7 @@
         {data}
       >
         <Html>
-          <AxisX format={formatLabelX} tickMarks />
+          <AxisX format={formatLabelX} tickMarks gridlines={false} ticks={6} />
           <AxisY format={formatLabelY} ticks={4} />
         </Html>
         <ScaledSvg>
