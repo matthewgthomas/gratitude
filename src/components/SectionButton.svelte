@@ -48,7 +48,7 @@
     }
 
     /* Width of button on desktop */
-    @media (min-width: 768px) {
+    @media (min-width: 811px) {
         button.section-button .circle {
             width: 3rem;
         }
@@ -60,11 +60,12 @@
 
         button.section-button .button-text {
             margin: 0 0 0 1.85rem;
+            padding: 0.5rem 0 0.75rem 1.7rem;
         }
     }
 
     /* Width of button on mobile */
-    @media (max-width: 767px) {
+    @media (max-width: 810px) {
         button.section-button .circle {
             width: 100%;
         }
@@ -86,6 +87,7 @@
 
         button.section-button .button-text {
             margin: 0 0 0 0.9rem;
+            padding: 0.6rem 0 0.75rem 1.7rem;
         }
     }
 
@@ -150,11 +152,10 @@
         left: 0;
         right: 0;
         bottom: 0;
-        padding: 0.6rem 0 0.75rem 1.7rem;
         /*margin: 0 0 0 1.85rem;*/
         color: var(--orange-primary);
         font-weight: 700;
-        line-height: 1.6;
+        line-height: 1.5;
         text-align: left;
     }
 
