@@ -21,6 +21,8 @@
     --cyan: #07F2F2;
     --cyan-dark: #07C4D9;
 
+    --grey: #f6f6f6;
+
     font-family: "Merriweather", Georgia, Garamond, serif;
     --font-sans: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
@@ -109,7 +111,7 @@ img {
 }
 
 blockquote {
-    background-color: #ededed;
+    background-color: var(--grey);
     margin: 10px auto;
     padding: 15px;
     border-radius: 5px;
