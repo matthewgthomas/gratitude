@@ -1,5 +1,5 @@
 <script>
-    import { fly, fade } from 'svelte/transition';
+    import { slide } from 'svelte/transition';
     let { children } = $props();
 
     let showContent = $state(false);
@@ -22,7 +22,7 @@
 <div class="collapsible-container">
     <button type="button" class="collapsible" class:spinning {onclick} aria-label="Show aside">{@html Asterisk}</button>
     {#if showContent}
-        <div class="content" in:fly={{ x: -50, duration: 2000 }} out:fade>
+        <div class="content" transition:slide={{ duration: 700, axis: "y" }}>
             <p>{@render children?.()}</p>
         </div>
     {/if}
@@ -31,6 +31,7 @@
 <style>
     .collapsible-container {
         margin-bottom: 1rem;
+        text-align: center;
     }
 
      /* Style the button that is used to open and close the collapsible content */
@@ -38,13 +39,12 @@
         background-color: transparent;
         color: #444;
         cursor: pointer;
-        padding: 0.5rem;
+        /*padding: 0.5rem;*/
         /*width: 100%;*/
         border: none;
-        text-align: left;
         outline: none;
         font-size: 15px;
-        margin-left: -4vw;
+        /*margin-left: -4vw;*/
     }
 
     @keyframes rotate{
@@ -65,18 +65,13 @@
 
     /* Style the collapsible content. Note: hidden by default */
     .content {
-        margin-top: -3vw;
+        /*margin-top: -3vw;*/
         padding: 1rem 1rem 0 1rem;
         color: var(--purple);
         /*display: none;*/
         overflow: hidden;
-        background-color: #fff;
-        border-left: thick solid var(--purple);
-    }
-
-    @media screen and (max-width: 980px) {
-        .content {
-            margin-top: inherit;
-        }
+        background-color: var(--grey);
+        border-top: thick solid var(--purple);
+        border-bottom: thick solid var(--purple);
     }
 </style>
