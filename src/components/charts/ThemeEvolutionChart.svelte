@@ -27,7 +27,7 @@
       });
     });
   
-    const colors = ['#E4670B', '#792FC4', '#07C4D9', '#828FD9'];
+    const colors = ['#EF732B', '#792FC4', '#07C4D9', '#828FD9'];
   </script>
   
   <div class="small-multiple-container">

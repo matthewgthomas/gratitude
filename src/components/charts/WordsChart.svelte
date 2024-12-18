@@ -56,7 +56,7 @@
   </div>
 
   <div class="chart-container">
-    <p><b>Top 10 {activeButton} I use</b></p>
+    <p><b>Top 10 {activeButton} I use, by number of mentions</b></p>
     <div class="the-chart-itself">
       <LayerCake
       ssr
