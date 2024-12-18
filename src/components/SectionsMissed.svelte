@@ -19,7 +19,7 @@
             <li><a href={`?section=${section.Slug}`} target="_self">{section.Section}</a></li>
         {/each}
     </ul>
-    <p>If you’d like to explore them, use the button at the bottom of this page to start again.</p>
+    <p>You can also use the button at the bottom of this page to start again.</p>
 {:else}
     <p>You read every section!</p>
 {/if}
