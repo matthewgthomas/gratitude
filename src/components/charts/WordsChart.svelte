@@ -138,6 +138,6 @@
         background-color: #bdbdbd;
     }
     button.active:hover {
-        background-color: var(--orange-rust);
+        background-color: var(--orange-light);
     }
 </style>
