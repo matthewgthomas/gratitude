@@ -1,13 +1,13 @@
 FromSectionID,FromSectionTitle,ToSectionID,ToSectionTitle,Text
-#N/A,Act 1,act1b,Act 1b (What I found in the dark),What I found in the dark
-act1b,Act 1b (What I found in the dark),#N/A,Act 2,What the dark found in me
-#N/A,Act 2,#N/A,Act 3,When gratitude dawned
-#N/A,Act 2,segue-what-is-gratitude,Segue: What is gratitude?,What is gratitude?
-#N/A,Act 2,segue-how-to-be-grateful,Segue: How to be grateful,How to be grateful
-#N/A,Act 3,theme-relationships,Theme: Relationships and social connections,How I am because you are
-#N/A,Act 3,theme-food,Theme: Food and cooking,How nourishing is food
-#N/A,Act 3,theme-solitude,Theme: Solitude and self-care,How I must go alone sometimes
-#N/A,Act 3,theme-nature,Theme: Nature and travel,How awe lies outside
+act1,"Act 1 (""You don't seem like yourself"")",act1b,Act 1b (What I found in the dark),What I found in the dark
+act1b,Act 1b (What I found in the dark),act2,Act 2 (What the dark found in me),What the dark found in me
+act2,Act 2 (What the dark found in me),act3,Act 3 (Gratitude dawns),When gratitude dawned
+act2,Act 2 (What the dark found in me),segue-what-is-gratitude,Segue: What is gratitude?,What is gratitude?
+act2,Act 2 (What the dark found in me),segue-how-to-be-grateful,Segue: How to be grateful,How to be grateful
+act3,Act 3 (Gratitude dawns),theme-relationships,Theme: Relationships and social connections,How I am because you are
+act3,Act 3 (Gratitude dawns),theme-food,Theme: Food and cooking,How nourishing is food
+act3,Act 3 (Gratitude dawns),theme-solitude,Theme: Solitude and self-care,How I must go alone sometimes
+act3,Act 3 (Gratitude dawns),theme-nature,Theme: Nature and travel,How awe lies outside
 theme-relationships,Theme: Relationships and social connections,segue-what-is-a-person,Segue: What is a person?,What is a person?
 theme-relationships,Theme: Relationships and social connections,theme-food,Theme: Food and cooking,How nourishing is food
 theme-relationships,Theme: Relationships and social connections,theme-nature,Theme: Nature and travel,How awe lies outside
@@ -22,29 +22,29 @@ theme-food-story-2,Theme: Food and cooking: Sub-story 2,theme-food-story-1,Theme
 theme-food-story-2,Theme: Food and cooking: Sub-story 2,theme-nature,Theme: Nature and travel,How awe lies outside
 theme-food-story-2,Theme: Food and cooking: Sub-story 2,theme-relationships,Theme: Relationships and social connections,How I am because you are
 theme-food-story-2,Theme: Food and cooking: Sub-story 2,theme-solitude,Theme: Solitude and self-care,How I must go alone sometimes
-theme-solitude,Theme: Solitude and self-care,#N/A,Act 4,What I found when I went outside
+theme-solitude,Theme: Solitude and self-care,act4,Act 4 (What I found when I went outside),What I found when I went outside
 theme-solitude,Theme: Solitude and self-care,theme-food,Theme: Food and cooking,How nourishing is food
 theme-solitude,Theme: Solitude and self-care,theme-nature,Theme: Nature and travel,How awe lies outside
 theme-solitude,Theme: Solitude and self-care,theme-relationships,Theme: Relationships and social connections,How I am because you are
 theme-nature,Theme: Nature and travel,theme-food,Theme: Food and cooking,How nourishing is food
 theme-nature,Theme: Nature and travel,theme-relationships,Theme: Relationships and social connections,How I am because you are
 theme-nature,Theme: Nature and travel,theme-solitude,Theme: Solitude and self-care,How I must go alone sometimes
-#N/A,Act 4,#N/A,Act 5,Burn after burning
-#N/A,Act 4,segue-how-we-write,Segue: How we write when we write about gratitude,How we write when we write about gratitude
-#N/A,Act 4,segue-how-to-be-grateful,Segue: How to be grateful,How to be grateful
-#N/A,Act 5,epilogue,Epilogue,Go well; stay well
+act4,Act 4 (What I found when I went outside),act5,Act 5 (Burn after burning),Burn after burning
+act4,Act 4 (What I found when I went outside),segue-how-we-write,Segue: How we write when we write about gratitude,How we write when we write about gratitude
+act4,Act 4 (What I found when I went outside),segue-how-to-be-grateful,Segue: How to be grateful,How to be grateful
+act5,Act 5 (Burn after burning),epilogue,Epilogue,Go well; stay well
 segue-how-to-be-grateful,Segue: How to be grateful,segue-other-wellbeing-boosters,Segue: Other wellbeing boosters,How to boost your wellbeing
 segue-how-to-be-grateful,Segue: How to be grateful,segue-what-is-gratitude,Segue: What is gratitude?,What is gratitude?
 segue-how-to-be-grateful,Segue: How to be grateful,segue-when-not-to-thank,Segue: When not to say thanks,When not to say thanks
-segue-how-to-be-grateful,Segue: How to be grateful,#N/A,Act 3,When gratitude dawned
-segue-other-wellbeing-boosters,Segue: Other wellbeing boosters,#N/A,Act 3,When gratitude dawned
+segue-how-to-be-grateful,Segue: How to be grateful,act3,Act 3 (Gratitude dawns),When gratitude dawned
+segue-other-wellbeing-boosters,Segue: Other wellbeing boosters,act3,Act 3 (Gratitude dawns),When gratitude dawned
 segue-other-wellbeing-boosters,Segue: Other wellbeing boosters,segue-when-not-to-thank,Segue: When not to say thanks,When not to say thanks
-segue-when-not-to-thank,Segue: When not to say thanks,#N/A,Act 3,When gratitude dawned
+segue-when-not-to-thank,Segue: When not to say thanks,act3,Act 3 (Gratitude dawns),When gratitude dawned
 segue-when-not-to-thank,Segue: When not to say thanks,segue-other-wellbeing-boosters,Segue: Other wellbeing boosters,How to boost your wellbeing
 segue-what-is-gratitude,Segue: What is gratitude?,segue-how-to-be-grateful,Segue: How to be grateful,How to be grateful
-segue-what-is-gratitude,Segue: What is gratitude?,#N/A,Act 3,When gratitude dawned
+segue-what-is-gratitude,Segue: What is gratitude?,act3,Act 3 (Gratitude dawns),When gratitude dawned
 segue-what-is-a-person,Segue: What is a person?,theme-food,Theme: Food and cooking,How nourishing is food
 segue-what-is-a-person,Segue: What is a person?,theme-solitude,Theme: Solitude and self-care,How I must go alone sometimes
 segue-what-is-a-person,Segue: What is a person?,theme-nature,Theme: Nature and travel,How awe lies outside
-segue-how-we-write,Segue: How we write when we write about gratitude,#N/A,Act 5,Burn after burning
-epilogue,Epilogue,#N/A,Act 1,Start again
+segue-how-we-write,Segue: How we write when we write about gratitude,act5,Act 5 (Burn after burning),Burn after burning
+epilogue,Epilogue,act1,"Act 1 (""You don't seem like yourself"")",Start again
