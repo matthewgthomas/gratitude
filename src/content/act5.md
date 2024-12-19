@@ -17,7 +17,9 @@ In the midst of this tense, sad mood, I suddenly noticed something was different
 
 Through burnout, I’d become all too familiar with how stress manifests in my body. This wasn’t it.
 
-Another surprise: I felt grateful. I felt grateful for my two colleagues on this horrible call, for having these wonderful people who want to help each other through rubbish experiences, who dropped everything to (virtually) bunker down and solve problems together.
+Another surprise: I felt grateful.
+
+I felt grateful for my two colleagues on this horrible call, for having these wonderful people who want to help each other through rubbish experiences, who dropped everything to (virtually) bunker down and solve problems together.
 
 That’s not to say I didn’t feel dreadful. What we were being asked to do deeply conflicted with what I value. But the dread didn’t transmogrify into anxiety attacks, peevishness, or stuffing three Dairy Milks into my gob. I could hold the negativity and the positivity at the same time and be ok.
 
@@ -29,7 +31,7 @@ The clouds burned orange. As the sun peeped over the horizon, the sky became a v
 
 <WideImage src={sunrise} alt="Sunrise over the Sahara desert" />
 
-In the Arctic Circle, the sun won’t rise for months. This is the polar night. Purples and greens flutter about the sky; it’s a time of auroras. Warming orange light spills out of every house. Pine trees are marshmallowed with snow. Northern Norway looks like a postcard from Narnia. The sun won’t rise for months, but winter in the Arctic Circle is never truly dark.
+In the Arctic Circle, the sun won’t rise for months. This is the polar night. Purples and cyans flutter about the sky; it’s a time of auroras. Warming orange light spills out of every house. Pine trees are marshmallowed with snow. Northern Norway looks like a postcard from Narnia. The sun won’t rise for months, but winter in the Arctic Circle is never truly dark.
 
 <WideImage src={tromso} alt="Early afternoon during the Polar Night, viewed from the upper reaches of Tromsø centre towards the mainland side" caption="Source: <a href='https://commons.wikimedia.org/wiki/User:Osopolar'>Osopolar</a>, via <a href='https://commons.wikimedia.org/wiki/File:Morketidettermiddag.JPG'>WikiMedia Commons</a>" />
 

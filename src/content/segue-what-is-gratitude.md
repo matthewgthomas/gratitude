@@ -12,7 +12,7 @@ Gratitude is “[a warm sense](https://www.oed.com/dictionary/gratitude_n?tab=me
 
 The word comes from the Latin for ‘thankful’ or ‘pleasing’, which itself stems from ‘[*gwerə-*’, a Proto-Indo-European root](https://www.etymonline.com/word/*gwere-#etymonline_v_53052) meaning "to favour." Gratitude is cousins with grace, congratulate, agree, and bard (a singer of praises).
 
-Gratitude can be thought of as “an emotion, an attitude, a moral virtue, a habit, a personality trait, or a coping response,” [according to](https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf) Robert Emmons, one of the subject’s leading researchers.
+Gratitude can be thought of as “an emotion, an attitude, a moral virtue, a habit, a personality trait, or a coping response,” [according to Robert Emmons](https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf), one of the subject’s leading researchers.
 
 It needs an object. Gratitude must be directed beyond ourselves, perhaps to another person or a non-human person (if, like me, you’re into the idea of non-human people – I talk about that in another segue). You might feel gratitude towards rivers, mountains, animals, plants, planets, cosmoses, gods.
 

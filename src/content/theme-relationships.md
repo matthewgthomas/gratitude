@@ -47,7 +47,7 @@ Since starting in 1938, researchers on this project have followed the lives of t
 
 Study directors Robert Waldinger and Marc Schultz [have said](https://www.theatlantic.com/ideas/archive/2023/01/harvard-happiness-study-relationships/672753/), “Good relationships lead to health and happiness. The trick is that those relationships must be nurtured.”
 
-<Aside>Interestingly, the study’s directors also say that the self-reflection needed for the questionnaires and interviews are helpful for some participants.</Aside>
+<Aside>Interestingly, the study’s directors also say that the self-reflection needed for the questionnaires and interviews is helpful for some participants.</Aside>
 
 Gratitude is a wonderful way of nurturing not only yourself, but also your relationships.
 

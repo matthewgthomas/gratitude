@@ -43,7 +43,7 @@ I haven’t started analysing the results yet, but I’ve already found that spe
 
 All of these are quite immediate-term forms of reflecting. Here are a couple of approaches that take a longer time horizon:
 
-**Five-year journal:** This is a way of capturing deeper memories and moods. You’ll need 366 blank sides of paper. Divide each side into five sections. Each side of paper represents one day of the year (including 29th February since you’ll experience at least one leap year when you do this); in each section, write down a few sentences – one per year.
+**Five-year journal:** This is a way of capturing deeper memories and moods. You’ll need 366 blank sides of paper. Divide each side into five sections. Each side of paper represents one day of the year (including 29th February, since you’ll experience at least one leap year when you do this); in each section, write down a few sentences – one per year.
 
 If you were starting today, for example, you would write {today_day_month} at the top of a sheet of paper, then divide it into five sections. In the top section, write the year {today_year} and then a couple of sentences about your day today. The second section would be for {today_next_year}, and so on. You can buy journals specially designed for this, but I just use a blank notebook.
 

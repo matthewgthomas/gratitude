@@ -14,9 +14,9 @@ Entire careers are founded on the idea that feeling grateful – or doing other 
 
 But Dunigan Folk and Elizabeth Dunn noticed a problem. The [two](https://heinelab.psych.ubc.ca/dunigan-folk/) [psychologists](https://dunn.psych.ubc.ca/) from the University of British Columbia, Canada, were reviewing the evidence for interventions that can make us happier: those tens of thousands of studies. But most of them weren’t great. The social sciences have a long history of publishing findings that might just be flukes – one-offs that other scientists [can’t replicate](https://www.nature.com/articles/533452a) when they try to run an experiment again, meaning we don’t know which results to trust.
 
-Marking these studies against a set of criteria for high-quality research, Folk and Dunn winnowed the massive pile down to 48 studies. And only two looked at gratitude.
+Marking these studies against a set of criteria for high-quality research, Folk and Dunn [winnowed the massive pile](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-030818) down to 48 studies. And only two looked at gratitude.
 
-The good news: both of these high-quality studies showed that gratitude had a measurably positive effect on happiness, life satisfaction, and feeling good.
+The good news: both of these high-quality studies showed that gratitude has a measurably positive effect on happiness, life satisfaction, and feeling good.
 
 But that’s decades of research, dozens of talks, countless books, advice, and common wisdom that I no longer knew whether to trust. As a researcher myself, my evidence-based faith had been knocked.
 

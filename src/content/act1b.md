@@ -8,7 +8,7 @@ slug: act1b
 
 Shouting at a computer mouse—compromised by fingers sticky from countless sneaky–but–necessary Dairy Milk bars—was nothing short of victim blaming.
 
-Rather than going out to play, I spent too many evenings and weekends writing scenarios about how a conflict might evolve, calculating how many people might flee their homes, mapping where people might be cold and hungry come winter – these were the ‘fun bits’ of my job, I told myself. So it wasn’t *really* work.
+Rather than going out to play, I spent too many evenings and weekends writing scenarios about how a conflict might evolve, calculating how many people might flee their homes, mapping where people might be cold and hungry come winter – these were the ‘fun’ bits of my job, I told myself. So it wasn’t *really* work.
 
 Darkness isn’t merely an absence of light. Darkness is sticky–when you’re surrounded by it day after day, it becomes all you can see.
 
