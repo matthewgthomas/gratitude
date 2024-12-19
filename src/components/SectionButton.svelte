@@ -153,7 +153,7 @@
         right: 0;
         bottom: 0;
         /*margin: 0 0 0 1.85rem;*/
-        color: var(--orange-primary);
+        color: var(--orange-light);
         font-weight: 700;
         line-height: 1.5;
         text-align: left;
