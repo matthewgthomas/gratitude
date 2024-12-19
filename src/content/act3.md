@@ -15,19 +15,19 @@ slug: act3
 
 # Gratitude dawns
 
-Over the last 365 days–writing every single day–I’ve accumulated {stats.total_words.toLocaleString()} words expressing gratitude.
+Over the last 365 days—writing every single day—I’ve accumulated {stats.total_words.toLocaleString()} words expressing gratitude.
 
 Here’s what I wrote about most often. This chart shows the ten words I use most frequently; tap the buttons to explore nouns, adjectives and verbs.
 
 <WordsChart />
 
-<Aside>I learnt a whole new programming language just to draw these charts and build a website for this choose-your-own-adventure essay. Told you I was a nerd.</Aside>
+<Aside>I learnt a whole new programming language just to draw these charts and build a website for this Choose Your Own Adventure essay. Told you I was a nerd.</Aside>
 
-Much of what I feel grateful for reflects on time and place (“day”, “morning”, “night”, “work”) or relates to food and/or socialising. I also describe a **lot** of things–mostly food–as *delicious* or *tasty* (though I have had more than one ‘delicious chat’ over the last year). I find chats, days and people to be *lovely* and/or *fun*.
+Much of what I feel grateful for reflects on time and place (“day”, “morning”, “night”, “work”) or relates to food and/or socialising. I also describe a **lot** of things—mostly food—as *delicious* or *tasty* (though I have had more than one ‘delicious chat’ over the last year). I find chats, days and people to be *lovely* and/or *fun*.
 
 The verb ‘to have’ does a lot of heavy lifting across many kinds of gratitude, from existential (“I have no chronic pain”) and nostalgic (“Having had such a great and lovely grandma”) to simple joys (“Had a proper long sleep last night”). I intentionally consider many activities as things I ‘get’ to do, rather than ‘have’ to do: “Getting to spend Christmas with my parents;” “Got to spend most of the day working on \[this\] gratitude story.”
 
-I write about ‘home’ a lot, in a variety of ways. Sometimes as a noun–a place I feel grateful for and where I find sanctuary. Sometimes home is an [adverb](https://english.stackexchange.com/questions/511146/is-the-word-home-never-an-adverb) (“Bringing a baguette home from Paris” or “Catching the last bus home and getting to watch us pass through London streets at night”).
+I write about ‘home’ a lot, in a variety of ways. Sometimes as a noun – a place I feel grateful for and where I find sanctuary. Sometimes home is an [adverb](https://english.stackexchange.com/questions/511146/is-the-word-home-never-an-adverb) (“Bringing a baguette home from Paris” or “Catching the last bus home and getting to watch us pass through London streets at night”).
 
 Until I started analysing my gratitudes in this (nerdy) way, keeping a journal felt a bit like collecting shells or stamps or records just for the sake of having a collection. I may have discovered some trinkets that twinkled in the moonlight, but the sun still wasn’t rising.
 
@@ -43,7 +43,7 @@ And that’s why we see ancestral lions among the clouds...
 <WideImage src={octopus} alt="Coat hook, or drunken octopus?" caption="Source: <a href='https://www.reddit.com/r/meme/comments/f3sejy/drunk_octopus_wants_to_fight/\#lightbox'>Reddit</a>" width=50 aside />  
 </Aside>
 
-Across my year of journaling, I noticed a handful of themes cropping up over and again—and growing:
+Across my year of journaling, I noticed a handful of themes cropping up over and again – and growing:
 
 <ThemeEvolutionChart />
 

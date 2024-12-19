@@ -39,9 +39,9 @@ Gratitude feels like both of these stories. I hadn’t noticed that a lightness 
 
 Gratitude is about choosing. I chose to notice how it’s never truly dark. I opened my aperture and let the light back in. I’m learning to be more intentional about how I spend my time, who I spend it with, and what I pay attention to. I’m learning to comprehend what I feel and put a name to it.
 
-Gratitude alone isn’t what helped me. It was everything, together, subtly and quietly: therapy, journalling, percolating, sharing the pain with loved ones and allowing myself to be supported by them, allowing myself to feel their love, and sharing my gratitude in return. Through writing – and sharing – this story, I have come to know myself better still.
+Gratitude alone isn’t what helped me. It was everything, together, subtly and quietly: therapy, journalling, percolating, sharing the pain with loved ones and allowing myself to be supported by them, allowing myself to feel their love, and sharing my gratitude in return. Through writing—and sharing—this story, I have come to know myself better still.
 
 “You don’t seem like yourself.”
 
-I agree with my friend: I am no longer my old self. But neither am I a new self. This story has helped me realise I have been cultivating a better way of being in the world. No boundary exists between light and dark–just infinite gradients of being.
+I agree with my friend: I am no longer my old self. But neither am I a new self. This story has helped me realise I have been cultivating a better way of being in the world. No boundary exists between light and dark – just infinite gradients of being.
 

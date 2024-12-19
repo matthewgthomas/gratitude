@@ -26,7 +26,7 @@ This is a story about my experiences and feelings and what I’ve learnt – tol
 
 But this is not just a story about me. It’s also a story about thousands of other people who appear in psychology studies, philosophical wranglings, anthropological adventures, and centuries’ worth of books.
 
-This is a story about choosing to pay attention and being intentional – told as a choose-your-own-adventure. The buttons at the end of each section let you explore the story in (almost) any order you desire. You’ll encounter many segues and meanders as you go. Tap the purple asterisks like the one below to read my little asides.
+This is a story about choosing to pay attention and being intentional – told as a Choose Your Own Adventure. The buttons at the end of each section let you explore the story in (almost) any order you desire. You’ll encounter many segues and meanders as you go. Tap the purple asterisks like the one below to read my little asides.
 
 <Aside>I love the writings of people like Terry Pratchett and David Foster Wallaces who make ample (and excellent) use of footnotes, endnotes, and other asides.</Aside>
 

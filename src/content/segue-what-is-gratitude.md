@@ -22,7 +22,7 @@ Philosophers have argued about the ins and outs of gratitude for centuries: when
 
 <GratitudePodcast />
 
-I have mixed feelings about these definitions and how they erect and police borders around an emotion. I don’t always feel grateful towards another person – sometimes my gratitude is intentionally directed towards myself, and that’s been a key part of healing from burnout. I personally feel gratitude for things that benefit me, even when they’re things I deserve – though I do appreciate the importance of realising we’re not always and not solely responsible for what happens to us. 
+I have mixed feelings about these definitions and how they erect and police borders around an emotion. I don’t always feel grateful towards another person – sometimes my gratitude is intentionally directed towards myself, and that’s been a core part of healing from burnout. I personally feel gratitude for things that benefit me, even when they’re things I deserve – though I do appreciate the importance of realising we’re not always and not solely responsible for what happens to us. 
 
 Navel-gazing aside, in my experience it is a good thing to shift your perspective towards the positives in the world – through paying attention to the good in your experiences and your circumstances. Intentionally being grateful “[creates an upward spiral of wellbeing](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-030818#right-ref-B26)” which changes your mindset over the long term, further boosting your wellbeing.
 

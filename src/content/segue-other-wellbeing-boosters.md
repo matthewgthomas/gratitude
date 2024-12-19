@@ -12,7 +12,7 @@ slug: segue-other-wellbeing-boosters
 
 # How (else) to boost your wellbeing
 
-I don’t want to give the impression that writing down gratitudes for 365 days in a row healed my burnout. Far from it. Here are some other things I’ve been doing that I’ve found – and continue to find – helpful.
+I don’t want to give the impression that writing down gratitudes for 365 days in a row healed my burnout. Far from it. Here are some other things I’ve been doing that I’ve found—and continue to find—helpful.
 
 All of these involve writing, but writing is not the only way to boost your wellbeing. It’s also vital for me to exercise, including breathing exercises (especially [4-7-8 breathing](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/wellbeing/breathing-exercises#478)), and do hobbies that engage my brain and body and need for creativity and problem-solving in other, more physical ways (such as baking).
 
@@ -53,5 +53,5 @@ The idea is that, to think five years into the future, it’s helpful to underst
 
 <WideImage src={agohence} alt="A screenshot of the ago/hence template" width=60 />
 
-**Writing elaborate choose-your-own-adventure essays:** I’ve found researching and writing this story to be incredibly helpful for understanding myself. I talk more about this at the end of the story.
+**Writing elaborate Choose Your Own Adventure essays:** I’ve found researching and writing this story to be incredibly helpful for understanding myself. I talk more about this at the end of the story.
 

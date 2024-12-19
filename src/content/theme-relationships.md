@@ -13,7 +13,7 @@ slug: theme-relationships
 
 Gratitude is an emotion about other people.
 
-You can’t be grateful for a cup of coffee, according to some thinkers, but you can be grateful to all the people – from barista to bean-picker – who together brought you that flat white.
+You can’t be grateful for a cup of coffee, according to some thinkers, but you can be grateful to all the people—from barista to bean-picker—who together brought you that flat white.
 
 <Aside>  
 It’s well worth watching A.J. Jacobs talk about his attempt to thank everyone involved in making his morning brew:
@@ -43,7 +43,7 @@ Even better than squirrelling away such gratitudes is expressing them to the peo
 
 Meaningful connection is what makes us happiest over the long run. For nearly 90 years, the [Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/) has investigated what shapes people’s health and wellbeing – and what makes us flourish.
 
-Since starting in 1938, researchers on this project have followed the lives of thousands of people across two generations living in Boston and Cambridge, Massachusetts (including former Harvard student President John F. Kennedy). A long, healthy life – according to their findings – isn’t down to genes, or diet, or exercise, or a high-flying career. Your cholesterol levels at age 50 don’t predict your wellbeing at 80\. The key is our relationships and how satisfied we feel with them.
+Since starting in 1938, researchers on this project have followed the lives of thousands of people across two generations living in Boston and Cambridge, Massachusetts (including former Harvard student President John F. Kennedy). A long, healthy life—according to their findings—isn’t down to genes, or diet, or exercise, or a high-flying career. Your cholesterol levels at age 50 don’t predict your wellbeing at 80\. The key is our relationships and how satisfied we feel with them.
 
 Study directors Robert Waldinger and Marc Schultz [have said](https://www.theatlantic.com/ideas/archive/2023/01/harvard-happiness-study-relationships/672753/), “Good relationships lead to health and happiness. The trick is that those relationships must be nurtured.”
 
