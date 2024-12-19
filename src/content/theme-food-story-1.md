@@ -9,7 +9,7 @@ slug: theme-food-story-1
 The Danish writer Peter Freuchen couldn’t catch any walruses. He was staying with an Inuit community in Greenland who hunt these tusked, blubbery pinnipeds. Once, a hunter returned from a successful expedition, thwacking down a large amount of meat for everyone to share. A famished Freuchen thanked him for his generosity and was roundly rebuked:
 
 “Up in our country we are human\!” said the hunter. “**And since we are human we help each other. We don’t like to hear anybody say thanks for that.** What I get today you may get tomorrow. Up here we say that by gifts one makes slaves and by whips one makes dogs.”  
-– from Peter Freuchen’s [Book of the Eskimos](https://www.goodreads.com/en/book/show/1378768), quoted in [Debt: The First 5,000 Years](https://uk.bookshop.org/p/books/debt-the-first-5000-years-david-graeber/2823513?ean=9781612194196) by David Graeber.
+— from Peter Freuchen’s [Book of the Eskimos](https://www.goodreads.com/en/book/show/1378768), quoted in [Debt: The First 5,000 Years](https://uk.bookshop.org/p/books/debt-the-first-5000-years-david-graeber/2823513?ean=9781612194196) by David Graeber.
 
 <Aside>It’s worth noting that (1) many people consider the word ‘Eskimo’ to be offensive, and (2) Inuit societies did not—and do not—enslave people.</Aside>
 

@@ -25,7 +25,7 @@ I’m endeavouring to [feel awestruck](https://hub.jhu.edu/magazine/2023/winter/
 
 One small way I love intentionally rooting my attention to nature is through haiku. Vastness is hard to truly comprehend, but art can help. Haiku is a snapshot of a moment in spacetime; in some ways, you don’t write the haiku: the haiku reveals itself to you.
 
-<Aside>“Every block of stone has a statue inside it and it is the task of the sculptor to discover it.” So goes a quote attributed to Michaelangelo. Some Inuit sculptors perceive their materials to contain stories and forms waiting to be revealed by the artist. In Terry Pratchett’s Discworld, “Inspiration Particles” constantly shoot through the universe and – just occasionally – a brilliant one strikes you.</Aside>
+<Aside>“Every block of stone has a statue inside it and it is the task of the sculptor to discover it.” So goes a quote attributed to Michaelangelo. Some Inuit sculptors perceive their materials to contain stories and forms waiting to be revealed by the artist. In Terry Pratchett’s Discworld, “Inspiration Particles” constantly shoot through the universe and—just occasionally—a brilliant one strikes you.</Aside>
 
 Here’s one from a contemplative solo moment on the other side of the world:
 
