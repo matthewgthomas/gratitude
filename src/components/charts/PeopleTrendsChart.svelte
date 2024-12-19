@@ -123,7 +123,7 @@
         font-size: 0.875rem;
         border: 2px solid #a4a4a4;
         border-radius: 0px;
-        background-color: #e0e0e0;
+        background-color: var(--grey);
         cursor: pointer;
         transition: background-color 0.2s;
 
