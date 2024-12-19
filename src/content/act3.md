@@ -40,7 +40,7 @@ And that’s why we see ancestral lions among the clouds...
 
 ... and our coat hooks look like drunken, bolshy octopuses.
 
-<WideImage src={octopus} alt="Coat hook, or drunken octopus?" caption="Source: <a href='https://www.reddit.com/r/meme/comments/f3sejy/drunk_octopus_wants_to_fight/\#lightbox'>Reddit</a>" width=5 />  
+<WideImage src={octopus} alt="Coat hook, or drunken octopus?" caption="Source: <a href='https://www.reddit.com/r/meme/comments/f3sejy/drunk_octopus_wants_to_fight/\#lightbox'>Reddit</a>" width=50 aside />  
 </Aside>
 
 Across my year of journaling, I noticed a handful of themes cropping up over and again—and growing:
