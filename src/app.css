@@ -4,7 +4,8 @@
 
 :root {
     --orange-primary: #E4670B;
-    --orange-light: #EF732B;
+    /*--orange-light: #EF732B;*/
+    --orange-light: #f39159;
     --orange-dark: #CC5803;
     --orange-rust: #BF3B0B;
     
