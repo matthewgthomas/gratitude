@@ -3,7 +3,9 @@ A story about gratitude: https://matthewgthomas.co.uk/gratitude/
 
 ## Building this choose your own adventure essay
 
-I built the website using [Svelte](https://svelte.dev/), a speedy framework sitting atop HTML, CSS and JavaScript. 
+I built the website using [Svelte](https://svelte.dev/), a speedy framework sitting atop HTML, CSS and JavaScript.
+
+The story content lives in a Google Doc; the links between story sections are in a Google Sheet. Both are scraped (in Markdown and CSV formats, respectively) using a [custom script](https://github.com/matthewgthomas/gratitude/blob/main/tasks/gdoc-to-markdown.py). The [MDsveX Markdown preprocessor](https://mdsvex.pngwn.io/) displays the content in Svelte components. Use `npm run gdoc` to get the latest content and links.
 
 The buttons were adapted from code by [Kocsten](https://codepen.io/kocsten/pen/rggjXp), [Katherine Kato](https://codepen.io/kathykato/pen/rZRaNe) and [Manuel Pinto](https://codepen.io/P1N2O/pen/pyBNzX).
 
