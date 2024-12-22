@@ -94,7 +94,7 @@
                   currentSection = route["ToSectionID"];
                   handleNavigation(currentSection);
                   console.log($navigationHistory);
-                  goto(`?section=${currentSection}`);
+                  goto(`?section=${currentSection}`, { replaceState: true });
                   }}>
                     {route["Text"]}
                 </SectionButton>
