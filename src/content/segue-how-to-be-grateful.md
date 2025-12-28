@@ -10,7 +10,7 @@ That said, if you want a little more structure, we can learn from decades of soc
 
 ## Counting your blessings
 
-List the things you feel grateful for. Typically, you’ll write three to five entries on a piece of paper, in a journal, on [stickies](https://en.wikipedia.org/wiki/Post-it_note), on your phone, in a Google/Word doc – anywhere that suits how you like to write. A typical prompt (from one of the [original gratitude studies](https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf)) would be to write down “five things in your life that you are grateful or thankful for”
+List the things you feel grateful for. Typically, you’ll write three to five entries on a piece of paper, in a journal, on [stickies](https://en.wikipedia.org/wiki/Post-it_note), on your phone, in a Google/Word doc – anywhere that suits how you like to write. A typical prompt (from one of the [original gratitude studies](https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf)) would be to write down “five things in your life that you are grateful or thankful for.”
 
 The frequency can vary: maybe once a day, maybe once a week. In psychology experiments, it would be time-bound – going on for a few weeks or perhaps a few months. But I found the greatest benefits came much later, so stick with it.
 

@@ -25,7 +25,7 @@ That’s not to say I didn’t feel dreadful. What we were being asked to do dee
 
 <SectionBreak />
 
-Here are two stories about the sun
+Here are two stories about the sun:
 
 The clouds burned orange. As the sun peeped over the horizon, the sky became a volcano. These are the moments you remember, aflame with drama. You stare back with an equal intensity and you try so hard to hold on to the majesty of a sunrise, you don’t notice how quickly and how subtly it’s over. The day had arrived, unnoticed, extinguishing the flames.
 
